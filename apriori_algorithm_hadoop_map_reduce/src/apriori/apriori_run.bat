@@ -11,7 +11,7 @@ set CLASS_NAME=apriori.AprioriDriver
 set INPUT_PATH=\user\MahaaGURU\input
 set OUTPUT_PATH=\user\MahaaGURU\output!K!
 :: I have 1 lakh records in the dataset so, I am using 40% support
-set SUPPORT_COUNT=20000
+set SUPPORT_COUNT=40000
 
 cd "C:\Users\MahaaGURU\Downloads\Hadoop\hadoop-3.3.6"
 
